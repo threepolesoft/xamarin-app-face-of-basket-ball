@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="faceofbasketball.View.details"
+             Title="Fece of Basketball"
+             >
+
+    <StackLayout
+        Orientation="Vertical"
+        >
+
+        <StackLayout>
+            <Image
+                x:Name="_img"
+                Aspect="AspectFit"
+                HeightRequest="260"
+                WidthRequest="150"
+                />
+
+            <Label
+                x:Name="_title"
+                Margin="10, 0, 0, 0"
+                FontSize="26"
+                TextColor="Black"
+                />
+            <BoxView  HeightRequest="1" BackgroundColor="Blue" HorizontalOptions="FillAndExpand"/>
+
+        </StackLayout>
+
+        <ScrollView>
+
+            <StackLayout
+                Orientation="Vertical"
+                >
+
+                <Grid RowSpacing="1" Margin="10"
+                      >
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+
+                    <Label Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Text="Position" FontSize="10" TextColor="Black"/>
+                    <Label Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" Text="" FontSize="10" x:Name="Position" TextColor="Blue" />
+
+                    <Label Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" Text="Shoots" FontSize="10" TextColor="Black"/>
+                    <Label Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" Text="" x:Name="Shoots" FontSize="10" TextColor="Blue" />
+
+                    <Label Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Text="Born" FontSize="10" TextColor="Black"/>
+                    <Label Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2" Text="" x:Name="Born" FontSize="10" TextColor="Blue" />
+
+                    <Label Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="3" Text="College" FontSize="10" TextColor="Black"/>
+                    <Label Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="1" Text="" x:Name="College" FontSize="10" TextColor="Blue" />
+
+                    <Label Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="3" Text="High School" FontSize="10" TextColor="Black"/>
+                    <Label Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2" Text="" x:Name="High_School" FontSize="10" TextColor="Blue" />
+
+                    <Label Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2" Text="Draft" FontSize="10" TextColor="Black"/>
+                    <Label Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="2" Text="" x:Name="Draft" FontSize="10" TextColor="Blue" />
+
+                    <Label Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="2" Text="NBA Debut" FontSize="10" TextColor="Black"/>
+                    <Label Grid.Row="6" Grid.Column="1" Grid.ColumnSpan="2" Text="" x:Name="NBA_Debut" FontSize="10" TextColor="Blue" />
+
+                    <Label Grid.Row="7" Grid.Column="0" Grid.ColumnSpan="2" Text="Career Length" FontSize="10" TextColor="Black"/>
+                    <Label Grid.Row="7" Grid.Column="1" Grid.ColumnSpan="2" Text="" x:Name="Career_Length" FontSize="10" TextColor="Blue" />
+
+                </Grid>
+
+            </StackLayout>
+        </ScrollView>
+
+    </StackLayout>
+</ContentPage>

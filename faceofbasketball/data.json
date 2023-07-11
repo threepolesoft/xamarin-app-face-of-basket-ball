@@ -1,0 +1,122 @@
+ [
+	{
+		"Title": "Alaa Abdelnaby",
+		"Img":"Alaa_Abdelnaby.jpg",
+		"Position": "Power Forward",
+		"Shoots": "Right6-10, 240lb (208cm, 108kg)",
+		"Born": "June 24, 1968 (Age: 54-022d) in Cairo, Egypt",
+		"College": "Duke",
+		"High_School": "Bloomfield in Bloomfield, New Jersey",
+		"Draft": "Portland Trail Blazers, 1st round (25th pick, 25th overall), 1990 NBA Draft",
+		"NBA_Debut": "November 2, 1990",
+		"Career_Length": "5 years"
+	},
+	{
+		"Title": "Kareem Abdul-Jabbar",
+		"Img":"Kareem_Abdul_Jabbar.jpg",
+		"Position": "Center",
+		"Shoots": "Right 7-2, 225lb (218cm, 102kg)",
+		"Born": "April 16, 1947 (Age: 75-091d) in New York, New York",
+		"College": "UCLA",
+		"High_School": " Power Memorial in New York, New York",
+		"Draft": "Milwaukee Bucks, 1st round (1st pick, 1st overall), 1969 NBA Draft",
+		"NBA_Debut": "October 18, 1969",
+		"Career_Length": "20 years"
+	},
+	{
+		"Title": "Shareef Abdur-Rahim",
+		"Img":"Shareef_Abdur_Rahim.jpg",
+		"Position": "Power Forward, Small Forward, and Center",
+		"Shoots": "Right 6-9, 225lb (206cm, 102kg)",
+		"Born": "December 11, 1976 (Age: 45-217d) in Marietta, Georgia",
+		"College": "California",
+		"High_School": "Wheeler in Marietta, Georgia",
+		"Draft": "Vancouver Grizzlies, 1st round (3rd pick, 3rd overall), 1996 NBA Draft",
+		"NBA_Debut": "November 1, 1996",
+		"Career_Length": "12 years"
+	},
+	{
+		"Title": "Alex Abrines",
+		"Img":"Alex_Abrines",
+		"Position": "Shooting Guard",
+		"Shoots": "Right 6-6, 200lb (198cm, 90kg)",
+		"Born": "August 1, 1993 (Age: 28-349d) in Palma de Mallorca, Spain",
+		"College": "",
+		"High_School": "",
+		"Draft": "Oklahoma City Thunder, 2nd round (2nd pick, 32nd overall), 2013 NBA Draft",
+		"NBA_Debut": "October 26, 2016",
+		"Career_Length": "3 years"
+	},
+	{
+		"Title": "Precious Achiuwa",
+		"Img":"Precious_Achiuwa.jpg",
+		"Position": "Center and Power Forward",
+		"Shoots": "Right 6-8, 225lb (203cm, 102kg)",
+		"Born": "September 19, 1999 (Age: 22-300d) in Port Harcourt, Nigeria",
+		"College": "Memphis",
+		"High_School": "Our Savior Lutheran in Bronx, New York, St. Benedict's Prep in Newark, New Jersey, Montverde Academy in Montverde, Florida",
+		"Draft": "Miami Heat, 1st round (20th pick, 20th overall), 2020 NBA Draft",
+		"NBA_Debut": "December 23, 2020",
+		"Career_Length": "2 years"
+	},
+	{
+		"Title": "Bam Adebayo",
+		"Img":"Bam_Adebayo.jpg",
+		"Position": "Center and Power Forward",
+		"Shoots": "Right 6-9, 255lb (206cm, 115kg)",
+		"Born": "July 18, 1997 (Age: 24-363d) in Newark, New Jersey",
+		"College": "Kentucky",
+		"High_School": "Northside in Pinetown, North Carolina, High Point Christian Academy in High Point, North Carolina",
+		"Draft": "Miami Heat, 1st round (14th pick, 14th overall), 2017 NBA Draft",
+		"NBA_Debut": "October 18, 2017",
+		"Career_Length": "5 years"
+	},
+	{
+		"Title": "Deng Adel",
+		"Img":"Deng_Adel.jpg",
+		"Position": "Small Forward",
+		"Shoots": "Right 6-7, 200lb (201cm, 90kg)",
+		"Born": "February 1, 1997 (Age: 25-165d) in Juba, South Sudan",
+		"College": "Louisville",
+		"High_School": "Victoria Rock Prep in Bradenton, Florida",
+		"Draft": "",
+		"NBA_Debut": "January 19, 2019",
+		"Career_Length": "1 year"
+	},
+	{
+		"Title": "Rick Adelman",
+		"Img":"Rick_Adelman.jpg",
+		"Position": "Point Guard",
+		"Shoots": "Right",
+		"Born": "June 16, 1946 (Age: 76-030d) in Lynwood, California",
+		"College": "Loyola Marymount",
+		"High_School": "Saint Pius X in Downey, California",
+		"Draft": "San Diego Rockets, 7th round (1st pick, 79th overall), 1968 NBA Draft",
+		"NBA_Debut": "October 17, 1968",
+		"Career_Length": "7 years"
+	},
+	{
+		"Title": "Jeff Adrien",
+		"Img":"Jeff_Adrien.jpg",
+		"Position": "Power Forward",
+		"Shoots": "Right 6-7, 245lb (201cm, 111kg)",
+		"Born": "February 10, 1986 (Age: 36-156d) in Brookline, Massachusetts",
+		"College": "UConn",
+		"High_School": "Brookline in Brookline, Massachusetts, Brewster Academy in Wolfeboro, New Hampshire",
+		"Draft": "",
+		"NBA_Debut": "October 27, 2010",
+		"Career_Length": "5 years"
+	},
+	{
+		"Title": "Arron Afflalo",
+		"Img":"Arron_Afflalo.jpg",
+		"Position": "Shooting Guard and Small Forward",
+		"Shoots": "Right 6-5, 210lb (196cm, 95kg)",
+		"Born": "October 15, 1985 (Age: 36-274d) in Los Angeles, California",
+		"College": "UCLA",
+		"High_School": "Centennial in Compton, California",
+		"Draft": "Detroit Pistons, 1st round (27th pick, 27th overall), 2007 NBA Draft",
+		"NBA_Debut": "November 1, 2007",
+		"Career_Length": "11 years"
+	}
+ ]
